@@ -1,0 +1,19 @@
+{
+  "name": "http-projects",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Krish Verma",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  },
+  "dependencies": {
+    "jsdom": "^20.0.3"
+  }
+}
